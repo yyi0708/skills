@@ -1,0 +1,23 @@
+{
+  "skill_name": "monster-template-generator",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "帮我生成一套《仙剑奇侠传》的妖兽模板，包含赵灵儿的雷灵兽、酒剑仙的剑灵、以及拜月教的魔兽，一共3只妖兽，风格要古风仙侠",
+      "expected_output": "生成一个ZIP包，包含 template.json 和 images/ 目录，template.json 中有3只仙剑主题的妖兽，图片风格为古风仙侠",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "做一套宝可梦风格的可爱妖兽模板，6只，属性要覆盖火水草电超能恶，稀有度合理分配，图片风格要日式卡通可爱风",
+      "expected_output": "生成ZIP包，template.json 中有6只妖兽，属性覆盖火水草电超能恶，图片为卡通可爱风格",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "给我做一个《山海经》主题的妖兽模板，搜一下山海经里的著名异兽，选4个最有名的做成模板，远古神秘风格",
+      "expected_output": "搜索山海经异兽数据后生成ZIP包，template.json 中有4只山海经主题妖兽，图片风格为远古神秘",
+      "files": []
+    }
+  ]
+}

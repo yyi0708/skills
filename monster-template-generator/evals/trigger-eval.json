@@ -1,0 +1,82 @@
+[
+  {
+    "query": "帮我生成一套《仙剑奇侠传》的图鉴，包含赵灵儿的雷灵兽、酒剑仙的剑灵、和拜月教的水魔兽，一共3只，古风仙侠风格",
+    "should_trigger": true
+  },
+  {
+    "query": "做一套宝可梦风格的可爱图鉴模板，6只，属性火水草电超能恶各一个，日式卡通风",
+    "should_trigger": false
+  },
+  {
+    "query": "给我做一个《山海经》主题的图鉴模板，搜一下山海经里最有名的4个异兽，远古神秘风",
+    "should_trigger": true
+  },
+  {
+    "query": "帮我弄一套小怪打卡队图鉴，主题是《咒术回战》里的咒灵，5只，暗黑风格",
+    "should_trigger": true
+  },
+  {
+    "query": "我想创建一个新的小怪打卡队模板，主题是西方龙，3种不同属性的龙，用在我的打卡App里",
+    "should_trigger": true
+  },
+  {
+    "query": "给我的小怪打卡App做一个《西游记》图鉴，包括金角大王、白骨精、牛魔王这些",
+    "should_trigger": true
+  },
+  {
+    "query": "生成一个宠物小精灵风格的图鉴，包含火水草电4种属性，可爱卡通风格",
+    "should_trigger": true
+  },
+  {
+    "query": "帮我打包一个模板，主题是中国上古神兽，青龙白虎朱雀玄武，做精美好看的图片",
+    "should_trigger": true
+  },
+  {
+    "query": "给小怪打卡队app，生成可爱的动物风格，兔子猫狗熊猫各一个，做ZIP包",
+    "should_trigger": true
+  },
+  {
+    "query": "我老板让我做一套《鬼灭之刃》的怪物图鉴模板，12只上弦之鬼，恐怖风格",
+    "should_trigger": false
+  },
+  {
+    "query": "能帮我画一张韩立的3D可爱图片吗，凡人修仙传主角",
+    "should_trigger": false
+  },
+  {
+    "query": "帮我写一个Flutter组件，展示怪物列表",
+    "should_trigger": false
+  },
+  {
+    "query": "给这个Dart代码加个注释，说明这个方法干了什么",
+    "should_trigger": false
+  },
+  {
+    "query": "这个App的数据库设计是什么样的？帮我看看schema",
+    "should_trigger": false
+  },
+  {
+    "query": "帮我编译这个Flutter项目，出错了",
+    "should_trigger": false
+  },
+  {
+    "query": "今天有什么新闻？帮我搜一下科技资讯",
+    "should_trigger": false
+  },
+  {
+    "query": "帮我写一份软件测试报告",
+    "should_trigger": false
+  },
+  {
+    "query": "帮我把这张图片转换成base64编码",
+    "should_trigger": false
+  },
+  {
+    "query": "分析一下这个ZIP文件里有什么内容",
+    "should_trigger": false
+  },
+  {
+    "query": "给我的项目加一个CI/CD流程",
+    "should_trigger": false
+  }
+]
