@@ -7,6 +7,7 @@ Personal collection of AI agent skills.
 | Skill | Description |
 |-------|-------------|
 | [monster-template-generator](./monster-template-generator/) | 为"小怪打卡队"App 生成可导入的妖兽/怪物图鉴 ZIP 模板 |
+| [novel-writing](./novel-writing/) | 用多 Agent 协作创作、续写、修改小说和设计故事设定 |
 
 ## Install
 
